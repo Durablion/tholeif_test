@@ -5,8 +5,8 @@
     <string name="start_recording">Start Recording</string>
     <string name="stop_recording">Stop Recording</string>
     <string name="recording_started">Recording started</string>
-    <string name="recording_stopped">Recorded %1$d points (%.2f km)</string>
-    <string name="recording_live">Recording: %1$d pts — %.2f km</string>
+    <string name="recording_stopped">Recorded %1$d points (%2$.2f km)</string>
+    <string name="recording_live">Recording: %1$d pts — %2$.2f km</string>
     <string name="waiting_for_gps">Waiting for GPS fix…</string>
     <string name="permission_denied">Location permission denied. The map cannot show your position.</string>
 </resources>
